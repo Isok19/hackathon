@@ -1,0 +1,11 @@
+# Путь к датасету
+path: ./dataset
+
+# Папки с изображениями
+train: images/train
+val: images/val
+test: images/test
+
+# Количество классов и их названия
+nc: 3
+names: ['signature', 'stamp', 'qr_code']
